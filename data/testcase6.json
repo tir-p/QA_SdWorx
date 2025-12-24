@@ -1,0 +1,24 @@
+{
+  "feature": "Negative Testing - Login",
+  "testcase": 6,
+  "scenarios": [
+    {
+      "id": "TC6-2",
+      "title": "Invalid username, valid password",
+      "input": { "username": "wrongUser", "password": "admin123" },
+      "expected": {
+        "validationMessage": "Invalid credentials",
+        "stayOnPage": true
+      }
+    },
+    {
+      "id": "TC6-3",
+      "title": "Valid username, invalid password",
+      "input": { "username": "Admin", "password": "wrongPass" },
+      "expected": {
+        "validationMessage": "Invalid credentials",
+        "stayOnPage": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "login": { "username": "Admin", "password": "admin123" },
+  "employee": "Bryan Tetsadong Marceau Mbeumo",
+  "rows": [
+    {
+      "clientSearch": "a",
+      "client": "ACME Ltd - ACME Ltd",
+      "project": "Administration",
+      "activity": null,
+      "hours": [2, 4, 6, 8, 10]
+    },
+    {
+      "clientSearch": "b",
+      "client": "Fresh Books Software Ltd -",
+      "project": null,
+      "activity": "Bug Fixes",
+      "hours": [1, 3, 5, 7, 9]
+    },
+    {
+      "clientSearch": "c",
+      "client": "The Coca-Cola Company - Coke",
+      "project": null,
+      "activity": "Demonstration",
+      "hours": [0, 0, 1, 2, 0]
+    }
+  ]
+}

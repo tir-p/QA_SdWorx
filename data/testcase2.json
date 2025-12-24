@@ -1,0 +1,9 @@
+{
+  "address1": "123 Main St",
+  "address2": "Apt 4B",
+  "city": "Metropolis",
+  "state": "NY",
+  "zip": "10001",
+  "country": "United States",
+  "mobile": "555-1234"
+}

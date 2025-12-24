@@ -1,0 +1,17 @@
+{
+  "login": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+  "vacancy": {
+    "name": "Intern Sick Leave",
+    "jobTitle": "Software Engineer",
+    "hiringManagerSearch": "Abdul",
+    "hiringManagerFull": "Abdul Muyeez Moulana",
+    "updatedName": "Intern Sick Leave Updated"
+  },
+  "vacancyUpdated": {
+    "hiringManagerSearch": "j",
+    "hiringManagerFull": "Joko Cahaya 3965"
+  }
+}
